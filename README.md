@@ -1,6 +1,6 @@
 ## Olá, me chamo Kaique Macieira Varjão
 
-- 🔭 Hoje eu estudo desenvolvimento FULL-STACK na empresa KenzieAcademyBrasil
+- 🔭 Hoje, estudo Front-end em Kenzie-Academy Brasil
 - 🌱 atualmente estudando HTML|CSS|JavaScript
 
  <div>
