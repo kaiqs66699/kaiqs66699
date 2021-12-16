@@ -1,7 +1,7 @@
 ## Olá, me chamo Kaique Macieira Varjão
 
 - 🔭 Hoje, estudo Front-end em Kenzie-Academy Brasil
-- 🌱 atualmente estudando HTML|CSS|JavaScript
+- 🌱 atualmente estudando HTML|CSS|JavaScript|React
 
  <div>
   <a href="https://github.com/kaiqs66699">
